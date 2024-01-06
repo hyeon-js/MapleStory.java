@@ -1,2 +1,3 @@
-# MapleStory.java
-Nexon MapleStory OpenAPI Wrapper (KMS)
+# MapleStory OpenAPI Wrapper
+
+© 2024 Hyeon.js, All rights reserved.
